@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="models_toyota_spinner_entries">
+        <item>Camry</item>
+        <item>Corolla</item>
+        <item>Sequoia</item>
+    </string-array>
+    <string-array name="models_honda_spinner_entries">
+        <item>Civic</item>
+        <item>Fit</item>
+    </string-array>
+    <string-array name="models_bmw_spinner_entries">
+        <item>X1</item>
+        <item>X2</item>
+        <item>X3</item>
+    </string-array>
+</resources>
